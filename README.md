@@ -51,6 +51,9 @@ To prevent the policy from overfitting to a pristine deterministic simulation, t
 Connections ;-; 12 dof connected :)
 <img width="1021" height="535" alt="image" src="https://github.com/user-attachments/assets/ad37a4fe-2c4e-41c1-b1da-3c8907ef5b06" />
 
+<img width="276" height="512" alt="image" src="https://github.com/user-attachments/assets/425e3d06-c132-4371-aaa1-232c1f1fe038" />
+
+
 
 
 
