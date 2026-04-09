@@ -14,6 +14,6 @@ smimport('g1_29dof_rev_1_0.urdf')
 Connections ;-; 12 dof connected :)
 <img width="1021" height="535" alt="image" src="https://github.com/user-attachments/assets/ad37a4fe-2c4e-41c1-b1da-3c8907ef5b06" />
 
-
+z
 
 
