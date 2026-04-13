@@ -53,6 +53,10 @@ Connections ;-; 12 dof connected :)
 
 <img width="276" height="512" alt="image" src="https://github.com/user-attachments/assets/425e3d06-c132-4371-aaa1-232c1f1fe038" />
 
+slow and steady progress is being made :)
+<img width="934" height="466" alt="image" src="https://github.com/user-attachments/assets/5ec94697-e2a4-4dfa-99be-e88303d0a670" />
+
+
 
 
 
