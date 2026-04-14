@@ -56,6 +56,8 @@ Connections ;-; 12 dof connected :)
 slow and steady progress is being made :)
 <img width="934" height="466" alt="image" src="https://github.com/user-attachments/assets/5ec94697-e2a4-4dfa-99be-e88303d0a670" />
 
+did some experiments with some different scripts today... and realized "reward hacking" is a real problem 😭, will try working with different scripts to try and limit that.
+
 
 
 
