@@ -1,4 +1,7 @@
-disp('Initializing Training Protocol...');
+poolobj = gcp('nocreate');
+if isempty(poolobj)
+    parpool('local');
+end
 
 trainOpts = rlTrainingOptions(...
     'MaxEpisodes', 10000, ...               
@@ -8,11 +11,9 @@ trainOpts = rlTrainingOptions(...
     'StopTrainingValue', 800, ...          
     'SaveAgentCriteria', 'EpisodeReward', ...  
     'SaveAgentValue', 300, ...                 
-    'SaveAgentDirectory', pwd);          
+    'SaveAgentDirectory', pwd, ...
+    'UseParallel', true);                 
 
-disp('Unleashing SAC Agent into the Environment...');
-disp('WARNING: CPU/GPU load will spike. Awaiting Episode Manager UI...');
+trainOpts.ParallelizationOptions.Mode = 'async';
 
 trainingStats = train(agent, env, trainOpts);
-
-disp('Training session terminated. Review the final policy.');
