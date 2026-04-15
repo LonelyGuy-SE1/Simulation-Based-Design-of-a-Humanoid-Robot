@@ -58,6 +58,14 @@ slow and steady progress is being made :)
 
 did some experiments with some different scripts today... and realized "reward hacking" is a real problem 😭, will try working with different scripts to try and limit that.
 
+spent some time experimenting with sac on matlab today... will work on the reward function for the humanoid next.
+<img width="364" height="112" alt="image" src="https://github.com/user-attachments/assets/4c61cc37-7470-4d13-8cd5-8a22d853584f" />
+<img width="952" height="485" alt="image" src="https://github.com/user-attachments/assets/8c8dda2f-662c-4582-94b9-26e106a0ad91" />
+
+
+
+
+
 
 
 
